@@ -1,0 +1,23 @@
+/* Created by Fargana Syed */
+/* Reference: https://www.w3schools.com/ */
+
+/* defined color and font type for the Login web page body */
+body{
+	font-family: Arial, Verdana, sans-serif;
+	background-color: white;
+
+}
+
+/*defined color of and alignment of content in the Login page */
+div #container{
+	align-content: center;
+	color: #000000;
+}
+
+/* center the contents for Login information and defined color for that section*/
+.login{
+	margin: auto;
+	background-color: #99ccff;
+	text-align: center;
+}
+	
